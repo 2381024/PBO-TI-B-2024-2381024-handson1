@@ -1,4 +1,4 @@
-public class ArrayDataType {
+public class DataTypeArray {
     public static void main(String[] args) {
         // Array adalah kumpulan sebuah data dengan tipe yang sama
 
